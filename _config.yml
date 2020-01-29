@@ -11,7 +11,7 @@ description: This is a blog post about Deep Learning and Robotics.
 github_username: arvind-cp
 
 # Email and twitter are optional:
-email: arvind @ <my company>
+email: arvind @ \<my company\>
 twitter_username: nagaraj_arvind
 
 # OPTIONAL: override baseurl and url if using a custom domain
